@@ -107,9 +107,8 @@ The insights from this model empower the sporting goods store to take specific, 
 <h2>How to Navigate This Repository</h2>
 <ul>
   <li><b>/README.md:</b> (This file) High-level project overview.</li>
-  <li><b>/Data_Mining_GA.ipynb:</b> Complete Jupyter Notebook with Python code, data analysis, and model development.</li>
-  <li><b>/Project_Implementation_Report.pdf:</b> Formal report detailing background, methodology, and findings.</li>
-  <li><b>/GA.csv:</b> (Optional) Anonymized dataset used for this analysis.</li>
+  <li><b>/Supply Chain ML.ipynb:</b> Complete Jupyter Notebook with Python code, data analysis, and model development.</li>
+  <li><b>/Supply Chain Report.pdf:</b> Formal report detailing background, methodology, and findings.</li>
 </ul>
 
 <br>
